@@ -1,0 +1,27 @@
+*{
+    margin: 1px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 1.5em;
+}
+#para{
+    background-color: rgb(14, 137, 238);
+ color: rgba(255, 255, 255, 0.911);
+ text-align: center;
+ font-size: larger;
+ padding-top: 10px;
+ padding-bottom: 10px;
+
+}
+#submit{
+    background-color: rgb(25, 143, 107);
+    color: aliceblue;
+    border: none;
+    border-radius: 2px;
+}
+#submit:hover{
+    background-color: rgb(84, 165, 141);
+    color: rgb(251, 253, 255);
+
+}
